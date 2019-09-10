@@ -17,4 +17,4 @@ Once you have the input file read, run the following command:
 python hull.py --data_file "your_file.xlsx"
 ```
 
-After it's done, a file called "energy_above_hull.xlsx" will be generated, containing the E_hull values of all the compositions in your ternary space, as a measurement of their thermodynamic stability.
+After it's done, a file called "**energy_above_hull.xlsx**" will be generated, containing the E_hull values of all the compositions in your ternary space, as a measurement of their thermodynamic stability.
