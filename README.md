@@ -9,7 +9,7 @@ First, prepare your data in an excel file (.xlsx format). This excel file should
 | ---- | ---- | ---- | ---- |
 | A fraction | B fraction | C fraction | formation energy |
 
-Here, your ternary system is represented with three component A, B and C, and the first three colomns in your input file is their fractions. The fourth column in your input file is the formation energies of each composition. Please make sure you name the fourth colomn to be "Ef" (easier for me to inded it ^^).
+Here, your ternary system is represented with three component A, B and C, and the first three colomns in your input file is their fractions. The fourth column in your input file is the formation energies of each composition. Please make sure you name the fourth colomn to be "Ef" (easier for me to index it ^^).
 
 Once you have the input file read, run the following command:
 
